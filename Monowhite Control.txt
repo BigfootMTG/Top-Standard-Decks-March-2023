@@ -1,0 +1,29 @@
+Deck
+17 Plains (MIR) 331
+4 Ambitious Farmhand (MID) 2
+1 Cathar Commando (MID) 10
+2 Ao, the Dawn Sky (NEO) 2
+4 The Restoration of Eiganjo (NEO) 34
+1 Spirited Companion (NEO) 38
+3 Reckoner Bankbuster (NEO) 255
+1 Eiganjo, Seat of the Empire (NEO) 268
+4 Roadside Reliquary (NEO) 272
+3 The Wandering Emperor (NEO) 42
+2 Serra Paragon (DMU) 32
+4 Lay Down Arms (BRO) 11
+2 Loran of the Third Path (BRO) 12
+3 Steel Seraph (BRO) 38
+3 The Eternal Wanderer (ONE) 11
+4 Ossification (ONE) 26
+2 Mirrex (ONE) 254
+
+Sideboard
+3 Sunset Revelry (MID) 38
+2 Farewell (NEO) 13
+2 Depopulate (SNC) 10
+1 Depopulate (SNC) 10
+1 Elspeth Resplendent (SNC) 11
+1 Unlicensed Hearse (SNC) 246
+1 Loran of the Third Path (BRO) 12
+1 Phyrexian Vindicator (ONE) 27
+3 Skrelv's Hive (ONE) 34

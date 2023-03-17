@@ -1,0 +1,24 @@
+Deck
+4 Consider (MID) 44
+2 Scatter Ray (BRO) 61
+4 Fading Hope (MID) 51
+3 Flow of Knowledge (BRO) 49
+4 Haughty Djinn (DMU) 52
+4 Impulse (DMU) 55
+22 Island (MIR) 336
+2 Make Disappear (SNC) 49
+2 March of Swirling Mist (NEO) 61
+2 Negate (M20) 69
+2 Spell Pierce (NEO) 80
+1 Spell Pierce (XLN) 81
+4 Thirst for Discovery (VOW) 85
+4 Tolarian Terror (DMU) 72
+
+Sideboard
+2 Consuming Tide (VOW) 53
+1 Disdainful Stroke (GRN) 37
+4 Ledger Shredder (SNC) 46
+2 Negate (M20) 69
+2 Unlicensed Hearse (SNC) 246
+2 Pithing Needle (MID) 257
+2 Invoke the Winds (NEO) 58

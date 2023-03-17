@@ -1,0 +1,27 @@
+Deck
+4 Brushland (BRO) 259
+4 Razorverge Thicket (ONE) 257
+4 Overgrown Farmland (MID) 265
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Plains (MIR) 331
+4 Tyvar's Stand (ONE) 190
+4 Crawling Chorus (ONE) 8
+4 Jawbone Duelist (ONE) 18
+4 Skrelv, Defector Mite (ONE) 33
+4 Skrelv's Hive (ONE) 34
+4 Venerated Rotpriest (ONE) 192
+4 Slaughter Singer (ONE) 216
+4 Mirrex (ONE) 254
+4 The Seedcore (ONE) 259
+4 Bloated Contaminator (ONE) 159
+1 Boseiju, Who Endures (NEO) 266
+3 Audacity (BRO) 169
+2 Valorous Stance (VOW) 42
+
+Sideboard
+4 Wedding Announcement (VOW) 45
+2 Destroy Evil (DMU) 17
+1 Annex Sentry (ONE) 2
+3 Annex Sentry (ONE) 2
+2 Melira, the Living Cure (ONE) 209
+3 Knockout Blow (SNC) 20

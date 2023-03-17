@@ -1,0 +1,30 @@
+Deck
+2 Dennick, Pious Apprentice (MID) 217
+3 Deserted Beach (MID) 260
+3 Skrelv, Defector Mite (ONE) 33
+2 Eiganjo, Seat of the Empire (NEO) 268
+4 Secluded Courtyard (NEO) 275
+4 Resolute Reinforcements (DMU) 29
+4 Valiant Veteran (DMU) 38
+4 Seachrome Coast (ONE) 258
+4 Recruitment Officer (BRO) 23
+3 Siege Veteran (BRO) 25
+4 Skystrike Officer (BRO) 62
+3 Zephyr Sentinel (BRO) 74
+3 Harbin, Vanguard Aviator (BRO) 212
+4 Fortified Beachhead (BRO) 262
+1 Destroy Evil (DMU) 17
+1 Otawara, Soaring City (NEO) 271
+3 Thalia, Guardian of Thraben (DKA) 24
+1 Thalia, Guardian of Thraben (VOW) 38
+4 Adarkar Wastes (DMU) 243
+2 Mishra's Foundry (BRO) 265
+1 Plains (MIR) 331
+
+Sideboard
+4 Wedding Announcement (VOW) 45
+3 Loran of the Third Path (BRO) 12
+2 Destroy Evil (DMU) 17
+2 Spell Pierce (NEO) 80
+2 Dorothea, Vengeful Victim (VOW) 235
+2 Circle of Confinement (VOW) 7

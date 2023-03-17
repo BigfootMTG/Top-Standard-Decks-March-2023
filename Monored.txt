@@ -1,0 +1,26 @@
+Deck
+4 Play with Fire (MID) 154
+4 Phoenix Chick (DMU) 140
+4 Kumano Faces Kakkazan (NEO) 152
+4 Monastery Swiftspear (BRO) 144
+4 Bloodthirsty Adversary (MID) 129
+3 Feldon, Ronom Excavator (BRO) 135
+1 Mirrex (ONE) 254
+4 Squee, Dubious Monarch (DMU) 146
+1 Lightning Strike (XLN) 149
+3 Lightning Strike (DMU) 137
+4 Thundering Raiju (NEO) 166
+4 Mishra's Foundry (BRO) 265
+2 Sokenzan, Crucible of Defiance (NEO) 276
+15 Mountain (MIR) 346
+2 Strangle (SNC) 125
+1 Rending Flame (VOW) 175
+
+Sideboard
+3 Obliterating Bolt (BRO) 145
+2 Rending Flame (VOW) 175
+2 Furnace Punisher (ONE) 132
+1 Furnace Punisher (ONE) 132
+3 Fable of the Mirror-Breaker (NEO) 141
+2 Koth, Fire of Resistance (ONE) 138
+2 The Elder Dragon War (DMU) 121

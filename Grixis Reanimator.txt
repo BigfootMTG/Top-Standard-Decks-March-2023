@@ -1,0 +1,35 @@
+Deck
+4 Atraxa, Grand Unifier (ONE) 196
+4 The Cruelty of Gix (DMU) 87
+4 Fable of the Mirror-Breaker (NEO) 141
+4 Corpse Appraiser (SNC) 178
+3 Reckoner Bankbuster (NEO) 255
+4 Bloodtithe Harvester (VOW) 232
+1 Abrade (AKR) 136
+3 Go for the Throat (BRO) 102
+1 Duress (M20) 97
+1 Negate (M20) 69
+2 Brotherhood's End (BRO) 128
+2 Raffine's Tower (SNC) 254
+2 Ziatora's Proving Ground (SNC) 261
+2 Shipwreck Marsh (MID) 267
+2 Stormcarved Coast (VOW) 265
+1 Shattered Sanctum (VOW) 264
+1 Rockfall Vale (MID) 266
+4 Haunted Ridge (MID) 263
+3 Shivan Reef (DMU) 255
+2 Sulfurous Springs (DMU) 256
+1 Otawara, Soaring City (NEO) 271
+1 Swamp (MIR) 340
+4 Blackcleave Cliffs (ONE) 248
+2 Darkslick Shores (ONE) 250
+2 Cut Down (DMU) 89
+
+Sideboard
+2 Cut Down (DMU) 89
+3 Sheoldred, the Apocalypse (DMU) 107
+2 Graveyard Trespasser (MID) 104
+3 Duress (M20) 97
+1 Abrade (AKR) 136
+1 Go for the Throat (BRO) 102
+1 Reckoner Bankbuster (NEO) 255

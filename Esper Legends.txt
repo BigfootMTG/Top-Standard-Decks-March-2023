@@ -1,0 +1,36 @@
+Deck
+2 Caves of Koilos (DMU) 244
+1 Underground River (BRO) 267
+3 Seachrome Coast (ONE) 258
+2 Adeline, Resplendent Cathar (MID) 1
+4 Dennick, Pious Apprentice (MID) 217
+1 Ludevic, Necrogenius (MID) 233
+2 Shipwreck Marsh (MID) 267
+3 Thalia, Guardian of Thraben (DKA) 24
+1 Thalia, Guardian of Thraben (VOW) 38
+2 Shattered Sanctum (VOW) 264
+2 Ao, the Dawn Sky (NEO) 2
+2 Eiganjo, Seat of the Empire (NEO) 268
+3 Otawara, Soaring City (NEO) 271
+1 Takenuma, Abandoned Mire (NEO) 278
+4 Raffine, Scheming Seer (SNC) 213
+2 Toluz, Clever Conductor (SNC) 228
+3 Raffine's Tower (SNC) 254
+4 Sheoldred, the Apocalypse (DMU) 107
+2 Adarkar Wastes (DMU) 243
+4 Plaza of Heroes (DMU) 252
+1 Loran of the Third Path (BRO) 12
+3 Go for the Throat (BRO) 102
+2 Razorlash Transmogrant (BRO) 122
+2 Darkslick Shores (ONE) 250
+4 Skrelv, Defector Mite (ONE) 33
+
+Sideboard
+2 Wedding Announcement (VOW) 45
+2 Spell Pierce (NEO) 80
+2 Disdainful Stroke (GRN) 37
+1 Temporary Lockdown (DMU) 36
+1 Temporary Lockdown (DMU) 36
+4 Cut Down (DMU) 89
+1 Loran of the Third Path (BRO) 12
+2 Razorlash Transmogrant (BRO) 122

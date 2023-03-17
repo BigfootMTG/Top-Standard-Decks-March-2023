@@ -1,0 +1,47 @@
+Deck
+1 Farewell (NEO) 13
+1 Siphon Insight (MID) 241
+1 The Celestus (MID) 252
+2 Reckoner Bankbuster (NEO) 255
+2 Unleash the Inferno (SNC) 229
+2 Go for the Throat (BRO) 102
+2 Drag to the Bottom (DMU) 91
+2 The Wandering Emperor (NEO) 42
+2 The Kami War (NEO) 227
+4 Herd Migration (DMU) 165
+4 Leyline Binding (DMU) 24
+4 Fable of the Mirror-Breaker (NEO) 141
+1 Loran of the Third Path (BRO) 12
+2 Archangel of Wrath (DMU) 3
+3 Atraxa, Grand Unifier (ONE) 196
+1 Deathcap Glade (VOW) 261
+1 Island (MIR) 336
+1 Mountain (MIR) 346
+1 Plains (MIR) 331
+1 Karplusan Forest (DMU) 250
+1 Boseiju, Who Endures (NEO) 266
+1 Forest (MIR) 347
+1 Caves of Koilos (DMU) 244
+1 Xander's Lounge (SNC) 260
+1 Ziatora's Proving Ground (SNC) 261
+1 Sundown Pass (VOW) 266
+1 Overgrown Farmland (MID) 265
+1 Swamp (MIR) 340
+1 Shattered Sanctum (VOW) 264
+1 Haunted Ridge (MID) 263
+2 Llanowar Wastes (BRO) 264
+2 Spara's Headquarters (SNC) 257
+4 Jetmir's Garden (SNC) 250
+4 Raffine's Tower (SNC) 254
+
+Sideboard
+3 Sunset Revelry (MID) 38
+3 Duress (M20) 97
+1 Disdainful Stroke (GRN) 37
+1 Disdainful Stroke (GRN) 37
+2 Vampires' Vengeance (VOW) 180
+1 Kaya, Intangible Slayer (ONE) 205
+1 Negate (M20) 69
+1 Reckoner Bankbuster (NEO) 255
+1 Drag to the Bottom (DMU) 91
+1 Archangel of Wrath (DMU) 3
